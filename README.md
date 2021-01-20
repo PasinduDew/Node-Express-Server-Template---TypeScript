@@ -1,1 +1,1 @@
-# Node-Express-Server-Template---TypeScript
+# Node-Express Server Template - TypeScript
